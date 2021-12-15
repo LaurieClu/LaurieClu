@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=”center”>
+<p align="center">
 
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/59483905/146216766-c0166853-7fcc-4077-bc81-e30d60d633c8.png" alt=”my banner”>
+<img width="200" height="200" src="https://user-images.githubusercontent.com/59483905/146216766-c0166853-7fcc-4077-bc81-e30d60d633c8.png" alt="my banner">
 
 </p>
