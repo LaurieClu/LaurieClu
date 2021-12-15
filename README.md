@@ -28,3 +28,7 @@
 - ⚡ Fun : ...
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+- 📈 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurieClu)](https://github.com/anuraghazra/github-readme-stats)
