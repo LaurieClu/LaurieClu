@@ -2,10 +2,16 @@
 
 <!--
 **LaurieClu/LaurieClu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+<p align="center">
+
+<img width="700" height="120" src="https://user-images.githubusercontent.com/59483905/146216766-c0166853-7fcc-4077-bc81-e30d60d633c8.png" alt="my banner">
 
 - 🔭 I’m currently working on ...
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,10 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<p align="center">
-
-<img width="700" height="120" src="https://user-images.githubusercontent.com/59483905/146216766-c0166853-7fcc-4077-bc81-e30d60d633c8.png" alt="my banner">
-
-</p>
