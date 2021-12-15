@@ -27,6 +27,4 @@
 
 - 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurieClu)](https://github.com/LaurieCLu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurieClu&layout=compact)](https://github.com/LaurieCLu)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurieClu)](https://github.com/LaurieCLu/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurieClu&layout=compact)](https://github.com/LaurieCLu)
